@@ -2,7 +2,7 @@
 This project is a simple raytracing project that renders 3D scenes using the raytracing algorithm. <br>
 The project is written in C and uses the minilibx library for the graphical output.
 
-here is a preview of the project a .png:
+
 ![alt text](rdm_imgs/sphere.png) <br>
 
 ## Features
