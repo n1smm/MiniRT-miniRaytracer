@@ -1,0 +1,11 @@
+A 1.0   0,0,0 
+C 0,1,15   0,-0.1,-1 80 
+L 0,0,0   0.1   255,255,255 
+# L 33,0,80   0.1   255,255,255 #
+pic PATH:textures/speedwagon.xpm #
+pic PATH:textures/speedwagon_normal.xpm #
+pl 0,0,-80   0,0,1   50,100,5 1 0 1 #
+cy 0,0,0   0.3,1,0   10   10   200,200,200 1 #
+cy -1.2,-4,0   0.3,1,0   16   0.5  0,0,0 #
+## light inside an object
+## is this a jojo's reference?

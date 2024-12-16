@@ -1,0 +1,5 @@
+A 0.5   0,0,0 # ambient light
+C 0,10,-80 0,0,1 80 # camera
+L 0,40,0   0.5   255,255,255 # directional light
+sp 0,0,0 20 255,0,0 # sphere
+pl 0,-30,0   0,1,0   40,40,40 #

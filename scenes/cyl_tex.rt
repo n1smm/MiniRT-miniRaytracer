@@ -1,0 +1,6 @@
+A 0.2 0,0,0 #
+L 0,10,-3 1 255,255,255 #
+C 0,0,20 0,0,-1 80 #
+pic PATH:textures/wall_west.xpm #
+pic PATH:textures/wall_west_normal.xpm #
+cy 0,0,-20 0,1,0 10 20 255,0,255 1 0 1 #

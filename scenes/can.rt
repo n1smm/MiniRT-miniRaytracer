@@ -1,0 +1,22 @@
+A 0.3 0,0,220 #
+L 3,9,-10 0.2 100,70,20 #
+C 0,10,-20 0,-0.3,1 70 #
+pic PATH:textures/brick_wall.xpm #
+pic PATH:textures/brick_wall_normal.xpm #
+pic PATH:textures/asfalto.xpm #
+pic PATH:textures/asfalto_normal.xpm #
+pic PATH:textures/coca_cola.xpm #
+pic PATH:textures/fanta.xpm #
+pic PATH:textures/fanta_normal.xpm #
+pic PATH:textures/wall_west.xpm #
+pic PATH:textures/wall_west_normal.xpm #
+pic PATH:textures/fake_grass.xpm #
+pic PATH:textures/fake_grass_normal.xpm #
+# l 4,10,3 0.2 255,255,255 # #second light
+pl 0,-2,0   0,1,0   40,40,40 1 9 10 #
+pl -9,0,0   1,0,0   100,0,0 1 0 1 #
+cy 13,3.5,7 0,1,0 5.6 14 25,85,25 1 4 #
+pl 0,0,15   0.1,0,1   80,80,80 1 0 1#
+cy -2,3,0 0,1,0 5.6 13 20,25,90 1 5 6#
+cy 3,1,-3 0.5,0,1 6 10 20,25,90 1 #
+## textures and bump mapping

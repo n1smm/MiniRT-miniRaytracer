@@ -1,0 +1,10 @@
+A 0.8 0,0,0 #ambient lighting
+C 0,20,0 0,-1,0 70 #camera
+L -2,9,0 0.5 255,255,255 #light
+L -2,9,0 0.5 100,5,105 #light
+pic PATH:textures/fake_grass.xpm #
+pic PATH:textures/fake_grass_normal.xpm #
+pl 0,0,0 0.0,1.0,0.0 10,50,10 1 0 1 #plane
+sp 0,0,0 10 0,0,0 0 #sphere
+sp -5,0,10 7 0,0,0 0 #sphere
+## colored light
