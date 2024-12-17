@@ -1,6 +1,7 @@
 # MINIRT - Raytracing project
-This project is a simple raytracing project that renders 3D scenes using the raytracing algorithm. <br>
-The project is written in C and uses the minilibx library for the graphical output.
+This project is a simple project that renders 3D scenes using the raytracing. <br>
+The project is written in C and uses the minilibx library for the graphical output. <br>
+The scope of the project was understaning basic concepts of raytracing and build them from scratch. <br>
 
 
 ![alt text](rdm_imgs/sphere.png) <br>
